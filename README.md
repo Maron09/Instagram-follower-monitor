@@ -54,7 +54,7 @@ This project is a Flask-based web application designed to monitor the follower c
 
 1. **Run the Flask application:**
    ```bash
-   flask run
+   python app.py
    ```
 
 2. **Open your web browser and navigate to:**
